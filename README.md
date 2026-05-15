@@ -156,6 +156,7 @@ Key dependencies:
 - `scikit-learn` - Evaluation metrics
 
 
-## Authors
+## 👥 Authors
 
-Saffron Mafia Team - MNLP Course Homework 2
+- Sahar Khanlari
+- Marco Natale
