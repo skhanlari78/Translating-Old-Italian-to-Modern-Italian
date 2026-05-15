@@ -1,0 +1,13 @@
+transformers
+sentencepiece
+torch
+pandas
+tqdm
+google-genai
+dotenv
+protobuf
+matplotlib
+datasets
+scikit-learn
+seaborn
+openpyxl
