@@ -1,4 +1,4 @@
-# Old Italian to Modern Italian Translation - Homework 2
+# Old Italian to Modern Italian Translation
 
 The project compares traditional translation models (MADLAD, NLLB) with large language models (PHI-4, QWEN3) using various prompting strategies.
 
